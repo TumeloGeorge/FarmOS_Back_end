@@ -118,8 +118,8 @@
 
 #### Testing
 
-* [ ] Unit Tests
-* [ ] Integration Tests
+* [x] Unit Tests
+* [x] Integration Tests
 
 ---
 
@@ -130,33 +130,33 @@
 #### Database
 
 * [x] Create conversations table
-* [ ] Create messages table
-* [ ] Create conversation_members table
+* [x] Create messages table
+* [x] Create conversation_members table
 
 #### Backend
 
-* [ ] conversation.repository.js
+* [x] conversation.repository.js
 
-* [ ] conversation.service.js
+* [x] conversation.service.js
 
-* [ ] conversation.controller.js
+* [x] conversation.controller.js
 
-* [ ] conversation.routes.js
+* [x] conversation.routes.js
 
-* [ ] message.repository.js
+* [x] message.repository.js
 
-* [ ] message.service.js
+* [x] message.service.js
 
-* [ ] message.controller.js
+* [x] message.controller.js
 
-* [ ] message.routes.js
+* [x] message.routes.js
 
 #### API Endpoints
 
-* [ ] GET /api/messages/conversations
-* [ ] POST /api/messages/conversations
-* [ ] GET /api/messages/conversations/:id
-* [ ] POST /api/messages/conversations/:id/messages
+* [x] GET /api/messages/conversations
+* [x] POST /api/messages/conversations
+* [x] GET /api/messages/conversations/:id
+* [x] POST /api/messages/conversations/:id/messages
 
 #### Testing
 
@@ -169,9 +169,9 @@
 
 #### Database
 
-* [ ] Create permissions table
-* [ ] Create role_permissions table
-* [ ] Verify farm_memberships relationships
+* [x] Create permissions table
+* [x] Create role_permissions table
+* [x] Verify farm_memberships relationships
 
 #### Backend
 

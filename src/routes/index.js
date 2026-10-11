@@ -11,5 +11,6 @@ router.use('/weather', require('../modules/weather/weather.routes'));
 router.use('/fields', require('../modules/fields/field.routes'));
 router.use('/crop-cycles', require('../modules/crop-cycle/cropCycle.routes'));
 router.use('/goals', require('../modules/goals/goal.routes'));
+router.use('/messaging', require('../modules/messaging/messaging.routes'));
 
 module.exports = router;
